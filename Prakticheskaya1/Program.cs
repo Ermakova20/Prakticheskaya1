@@ -10,7 +10,7 @@ namespace Prakticheskaya1
     {
         static void Main(string[] args)
         {
-
+ 
         }
     }
 }
